@@ -241,4 +241,4 @@ This repository serves as the official landing page for DXBX. The software is di
 **Get the most recent version of DXBX today!**
 
 ---
-**Last updated:** 2026-10-18 10:50:35 UTC
+**Last updated:** 2026-10-18 14:27:05 UTC
